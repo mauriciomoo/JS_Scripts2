@@ -83,7 +83,7 @@ class MyArray {
 
 const myArray = new MyArray();
 
-// MMA 300724
+// MMA 190225
 
-alert("Mensaje");
-confirm("Desea continuar");
+alert("Messages");
+confirm("Continue?");
